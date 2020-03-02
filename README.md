@@ -16,6 +16,14 @@
 
 - [LCCI 01.01.判定字符是否唯一](https://mp.weixin.qq.com/s/XVAc56PacCM_r7VdS3zm8A)
 - [LCCI 01.02.判定是否互为字符重排](https://mp.weixin.qq.com/s/au32mD6lSfWZT4mGAvOzZw)
+- [LCCI 01.03. URL化](https://mp.weixin.qq.com/s/cBpY6UWmJNOv1WfvD_jbvA)
+- [LCCI 01.04. 回文排列](https://mp.weixin.qq.com/s/sczevJ9z5SLculXOuMpMnQ)
+
+
+#### LeetCode中文 每日一题
+
+- [「每日一题」第1天——225. 用队列实现栈](https://mp.weixin.qq.com/s/8jzn_2Qs36rDIEquM4bgZw)
+
 
 
 
