@@ -27,10 +27,6 @@
 - [「每日一题」第2天——206. 反转链表](https://mp.weixin.qq.com/s/3NrinoiX8urxWm1tq_rJSA)
 
 
-
-
 #### 公众号：FlyPython
-
-
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1gb1q8emoktj309k09k749.jpg)
