@@ -19,12 +19,14 @@
 - [LCCI 01.03. URL化](https://mp.weixin.qq.com/s/cBpY6UWmJNOv1WfvD_jbvA)
 - [LCCI 01.04. 回文排列](https://mp.weixin.qq.com/s/sczevJ9z5SLculXOuMpMnQ)
 - [LCCI 01.05. 一次编辑](https://mp.weixin.qq.com/s/ZGSH3nBzvLjhCe5s4HPFDw)
+- [LCCI 01.06.字符串压缩](https://mp.weixin.qq.com/s/c62nzPLqgsRPbMGfr9tOSg)
 
 
 #### LeetCode中文 每日一题
 
 - [「每日一题」第1天——225. 用队列实现栈](https://mp.weixin.qq.com/s/8jzn_2Qs36rDIEquM4bgZw)
 - [「每日一题」第2天——206. 反转链表](https://mp.weixin.qq.com/s/3NrinoiX8urxWm1tq_rJSA)
+- [「每日一题」第3天——LCCI 10.01. 合并排序的数组](https://mp.weixin.qq.com/s/ZJQMVMBuqo1tN0oaHmmmZQ)
 
 
 #### 公众号：FlyPython
