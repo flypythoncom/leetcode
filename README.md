@@ -27,6 +27,7 @@
 - [「每日一题」第1天——225. 用队列实现栈](https://mp.weixin.qq.com/s/8jzn_2Qs36rDIEquM4bgZw)
 - [「每日一题」第2天——206. 反转链表](https://mp.weixin.qq.com/s/3NrinoiX8urxWm1tq_rJSA)
 - [「每日一题」第3天——LCCI 10.01. 合并排序的数组](https://mp.weixin.qq.com/s/ZJQMVMBuqo1tN0oaHmmmZQ)
+- [「每日一题」第4天——994. 腐烂的橘子](https://mp.weixin.qq.com/s/AZWHQClZKot_mPddf7I16w)
 
 
 #### 公众号：FlyPython
