@@ -34,6 +34,9 @@
 - [「每日一题」第8天——322. 零钱兑换](https://mp.weixin.qq.com/s/3B6TeDDbKhbkYoKsp0Vjqw)
 - [「每日一题」第9天——121. 买卖股票的最佳时机](https://mp.weixin.qq.com/s/PbcmPRPLfV2oFzZjBRLE1Q)
 - [「每日一题」第10天——543. 二叉树的直径](https://mp.weixin.qq.com/s/sE6Ezc69J1aUlfhP-Cr0Tw)
+- [「每日一题」第11天——1013. 将数组分成和相等的三个部分](https://mp.weixin.qq.com/s/RQ2bwXoCiPadvaqmq4MgAQ)
+- [「每日一题」第12天——1071. 字符串的最大公因子](https://mp.weixin.qq.com/s/fuhNMiD-ClLCsrAKxzw_PQ)
+- [「每日一题」第13天——169. 多数元素](https://mp.weixin.qq.com/s/Ht4ygIUZnIXMrgk3ZCMtcw)
 
 
 #### 公众号：FlyPython
