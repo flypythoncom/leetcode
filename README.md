@@ -39,6 +39,8 @@
 - [「每日一题」第13天——169. 多数元素](https://mp.weixin.qq.com/s/Ht4ygIUZnIXMrgk3ZCMtcw)
 - [「每日一题」第14天——300. 最长上升子序列](https://mp.weixin.qq.com/s/VyvnyWbCqC5X-EuArI5j4w)
 - [「每日一题」第15天——695. 岛屿的最大面积](https://mp.weixin.qq.com/s/vx2WoTa_V87XITcx97jPZw)
+- [「每日一题」第16天——LCCI. 01.06 字符串压缩](https://mp.weixin.qq.com/s/K1A-oJ54ICJyZQXZfRYEew)
+- [「每日一题」第17天——1160. 拼写单词](https://mp.weixin.qq.com/s/8ZYSyq2erMAu_3Amym89AQ)
 
 
 #### 公众号：FlyPython
