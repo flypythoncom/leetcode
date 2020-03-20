@@ -41,6 +41,8 @@
 - [「每日一题」第15天——695. 岛屿的最大面积](https://mp.weixin.qq.com/s/vx2WoTa_V87XITcx97jPZw)
 - [「每日一题」第16天——LCCI. 01.06 字符串压缩](https://mp.weixin.qq.com/s/K1A-oJ54ICJyZQXZfRYEew)
 - [「每日一题」第17天——1160. 拼写单词](https://mp.weixin.qq.com/s/8ZYSyq2erMAu_3Amym89AQ)
+- [「每日一题」第18天——836. 矩形重叠](https://mp.weixin.qq.com/s/dEQYDKGTgaJkn0oei5r9Vg)
+- [「每日一题」第19天——409. 最长回文串](https://mp.weixin.qq.com/s/p0XrtYS5QKrb_pvguZlRpg)
 
 
 #### 公众号：FlyPython
