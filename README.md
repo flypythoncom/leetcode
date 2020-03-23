@@ -43,6 +43,9 @@
 - [「每日一题」第17天——1160. 拼写单词](https://mp.weixin.qq.com/s/8ZYSyq2erMAu_3Amym89AQ)
 - [「每日一题」第18天——836. 矩形重叠](https://mp.weixin.qq.com/s/dEQYDKGTgaJkn0oei5r9Vg)
 - [「每日一题」第19天——409. 最长回文串](https://mp.weixin.qq.com/s/p0XrtYS5QKrb_pvguZlRpg)
+- [「每日一题」第20天——LCOF. 40. 最小的k个数](https://mp.weixin.qq.com/s/g949YzpCd_bzg4Yf7lCJfg)
+- [「每日一题」第21天——365. 水壶问题](https://mp.weixin.qq.com/s/Fgy8ICD6CFb8OF5Ifn2DUA)
+- [「每日一题」第22天——945. 使数组唯一的最小增量](https://mp.weixin.qq.com/s/lRCsdPTl3zQJ4ZX8trtheQ)
 
 
 #### 公众号：FlyPython
