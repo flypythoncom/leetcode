@@ -48,6 +48,8 @@
 - [「每日一题」第22天——945. 使数组唯一的最小增量](https://mp.weixin.qq.com/s/lRCsdPTl3zQJ4ZX8trtheQ)
 - [「每日一题」第23天——876. 链表的中间结点](https://mp.weixin.qq.com/s/8GNcybtViUQ99KQRTiGCPQ)
 - [「每日一题」第24天——LCCI.17.16. 按摩师](https://mp.weixin.qq.com/s/1qQBU0r_X1gwbdyz-ObKGg)
+- [「每日一题」第25天——892. 三维形体的表面积](https://mp.weixin.qq.com/s/ZsINKVUYrAL1VKz3dcv3Cg)
+- [「每日一题」第26天——999. 车的可用捕获量](https://mp.weixin.qq.com/s/QxRZSbMjqFpnlD53au2q1w)
 
 
 #### 公众号：FlyPython
