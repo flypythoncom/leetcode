@@ -50,6 +50,9 @@
 - [「每日一题」第24天——LCCI.17.16. 按摩师](https://mp.weixin.qq.com/s/1qQBU0r_X1gwbdyz-ObKGg)
 - [「每日一题」第25天——892. 三维形体的表面积](https://mp.weixin.qq.com/s/ZsINKVUYrAL1VKz3dcv3Cg)
 - [「每日一题」第26天——999. 车的可用捕获量](https://mp.weixin.qq.com/s/QxRZSbMjqFpnlD53au2q1w)
+- [「每日一题」第27天——914. 卡牌分组](https://mp.weixin.qq.com/s/rEYZlNtqyReno4hukcxp_Q)
+- [「每日一题」第28天——820. 单词的压缩编码](https://mp.weixin.qq.com/s/HDz1aVcIYulIR-nL8Us2KA)
+- [「每日一题」第29天——1162. 地图分析](https://mp.weixin.qq.com/s/vY0d65N1RJuV2r93EToFBA)
 
 
 #### 公众号：FlyPython
