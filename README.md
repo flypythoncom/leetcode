@@ -53,6 +53,9 @@
 - [「每日一题」第27天——914. 卡牌分组](https://mp.weixin.qq.com/s/rEYZlNtqyReno4hukcxp_Q)
 - [「每日一题」第28天——820. 单词的压缩编码](https://mp.weixin.qq.com/s/HDz1aVcIYulIR-nL8Us2KA)
 - [「每日一题」第29天——1162. 地图分析](https://mp.weixin.qq.com/s/vY0d65N1RJuV2r93EToFBA)
+- [「每日一题」第30天——LCOF.62. 圆圈中最后剩下的数字](https://mp.weixin.qq.com/s/Qt9Hp28llVEm3Z5dZhjMeA)
+- [「每日一题」第31天——912. 排序数组](https://mp.weixin.qq.com/s/sKpVC7utLzDVGSCQE6-mlA)
+- [「每日一题」第32天——1111. 有效括号的嵌套深度](https://mp.weixin.qq.com/s/9uovxfQeNQBNvOLMTTiMUQ)
 
 
 #### 公众号：FlyPython
