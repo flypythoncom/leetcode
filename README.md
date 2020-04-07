@@ -56,6 +56,12 @@
 - [「每日一题」第30天——LCOF.62. 圆圈中最后剩下的数字](https://mp.weixin.qq.com/s/Qt9Hp28llVEm3Z5dZhjMeA)
 - [「每日一题」第31天——912. 排序数组](https://mp.weixin.qq.com/s/sKpVC7utLzDVGSCQE6-mlA)
 - [「每日一题」第32天——1111. 有效括号的嵌套深度](https://mp.weixin.qq.com/s/9uovxfQeNQBNvOLMTTiMUQ)
+- [「每日一题」第33天——289. 生命游戏](https://mp.weixin.qq.com/s/UldBK0Pqa3NTNFIzNAVo_g)
+- [「每日一题」第34天——8. 字符串转换整数 (atoi)](https://mp.weixin.qq.com/s/tJU0iGFaAF3Dha2EMQiXKA)
+- [「每日一题」第35天——42. 接雨水](https://mp.weixin.qq.com/s/q-B2o2HgJuxAUOgFNLc_xw)
+- [「每日一题」第36天——460. LFU缓存](https://mp.weixin.qq.com/s/n_QeB5iSsj7ncNqwMSjWQw)
+- [「每日一题」第37天——72. 编辑距离](https://mp.weixin.qq.com/s/w_tiEMjmsdMstGobfYnEGg)
+- [「每日一题」第38天——LCCI.01.07. 旋转矩阵](https://mp.weixin.qq.com/s/R8AG5Zam9PErY0jB-1f8Sw)
 
 
 #### 公众号：FlyPython
