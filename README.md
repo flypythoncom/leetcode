@@ -62,6 +62,12 @@
 - [「每日一题」第36天——460. LFU缓存](https://mp.weixin.qq.com/s/n_QeB5iSsj7ncNqwMSjWQw)
 - [「每日一题」第37天——72. 编辑距离](https://mp.weixin.qq.com/s/w_tiEMjmsdMstGobfYnEGg)
 - [「每日一题」第38天——LCCI.01.07. 旋转矩阵](https://mp.weixin.qq.com/s/R8AG5Zam9PErY0jB-1f8Sw)
+- [「每日一题」第39天——LCOF.13. 机器人的运动范围](https://mp.weixin.qq.com/s/9IWC1NmnANbjAlO_gVhdsw)
+- [「每日一题」第40天——22. 括号生成](https://mp.weixin.qq.com/s/11w6yE4a2prEB8DWaXEKKA)
+- [「每日一题」第41天——151. 翻转字符串里的单词](https://mp.weixin.qq.com/s/VLjeqogpF5gLPgSnd7er6g)
+- [「每日一题」第42天——887. 鸡蛋掉落](https://mp.weixin.qq.com/s/R7mT0He-dQRkbbsS290xwQ)
+- [「每日一题」第43天——LCCI.16.03.交点](https://mp.weixin.qq.com/s/7iJC5Cfi6owkBRom97Xl3A)
+
 
 
 #### 公众号：FlyPython
