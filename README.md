@@ -75,7 +75,13 @@
 - [「每日一题」第49天——11. 盛最多水的容器](https://mp.weixin.qq.com/s/WimY1d-Go1EroPjBUm-X7Q)
 - [「每日一题」第50天——466. 统计重复个数](https://mp.weixin.qq.com/s/_B48VsptH8Mqin55SO-nTw)
 - [「每日一题」第51天——200. 岛屿数量](https://mp.weixin.qq.com/s/AW1rr6StgG80-D6U1a3C2g)
-
+- [「每日一题」第52天——1248. 统计「优美子数组」](https://mp.weixin.qq.com/s/ZG5EAOrz1a0iBab4Y_PBBg)
+- [「每日一题」第53天——199. 二叉树的右视图](https://mp.weixin.qq.com/s/loQJCQ5a3mgLaYxon3_Q7A)
+- [「每日一题」第54天——LCCI.08.11. 硬币](https://mp.weixin.qq.com/s/t9ECVh6yX_-KgCd--METKQ)
+- [「每日一题」第55天——LOCF.51. 数组中的逆序对](https://mp.weixin.qq.com/s/MmPDN8l3blzxZZL-Wld0hw)
+- [「每日一题」第56天——46. 全排列](https://mp.weixin.qq.com/s/5nrvkyMUnnIJ0oAHpvQAew)
+- [「每日一题」第57天——23. 合并K个排序链表](https://mp.weixin.qq.com/s/2bsiosJj8MX4p7HcRLLY2A)
+- [「每日一题」第58天——33. 搜索旋转排序数组](https://mp.weixin.qq.com/s/CPvysHSzIxBFgLO4YAQ8gg)
 
 
 #### 公众号：FlyPython
