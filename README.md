@@ -82,6 +82,9 @@
 - [「每日一题」第56天——46. 全排列](https://mp.weixin.qq.com/s/5nrvkyMUnnIJ0oAHpvQAew)
 - [「每日一题」第57天——23. 合并K个排序链表](https://mp.weixin.qq.com/s/2bsiosJj8MX4p7HcRLLY2A)
 - [「每日一题」第58天——33. 搜索旋转排序数组](https://mp.weixin.qq.com/s/CPvysHSzIxBFgLO4YAQ8gg)
+- [「每日一题」第59天——LCOF.56 - I. 数组中数字出现的次数](https://mp.weixin.qq.com/s/Z-fbwOfmmaIns10bmdDfsg)
+- [「每日一题」第60天——1095. 山脉数组中查找目标值](https://mp.weixin.qq.com/s/Oho96aXCgKQ9hMs8yrm6EA)
+- [「每日一题」第61天——202. 快乐数](https://mp.weixin.qq.com/s/Q2fc2DwcaRVZaSzopjFDbg)
 
 
 #### 公众号：FlyPython
